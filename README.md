@@ -1,1 +1,1 @@
-AmberCoin v2.1.0.1
+AmberCoin v3.0.0.3
